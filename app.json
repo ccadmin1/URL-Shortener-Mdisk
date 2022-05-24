@@ -7,7 +7,7 @@
     "shortener"
   ],
   "website": "https://github.com/T2links/",
-  "repository": "https://github.com/T2links/",
+  "repository": "https://github.com/ccadmin1/URL-Shortener-Mdisk",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
