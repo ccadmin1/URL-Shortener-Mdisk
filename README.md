@@ -58,7 +58,7 @@ You can deploy this bot anywhere.
 <p>Deploy To Heroku<P>
 <p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/kevinnadar22/URL-Shortener-V2">
+<a href="https://heroku.com/deploy?template='https://github.com/ccadmin1/URL-Shortener-Mdisk">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
